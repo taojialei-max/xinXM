@@ -1,3 +1,2 @@
-function ajax() {
-
-}
+function ajax() { }
+function addEvent() { }
